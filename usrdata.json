@@ -22,5 +22,11 @@
         "key": "jooje1",
         "expirydate": "15-012-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e935c60f7c0303ba",
+        "key": "MTX12",
+        "expirydate": "15-012-2025",
+        "Allowoffline": false
     }
 ]
