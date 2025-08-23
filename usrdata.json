@@ -12,5 +12,12 @@
         "password": "ofbar2",
         "expirydate": "31-12-2025",
         "Allowoffline": false
+        },
+    {
+        "device_id": "0dc41948b0ad44da",
+        "username": "ofbar",
+        "password": "ofbar",
+        "expirydate": "31-12-2025",
+        "Allowoffline": false
     }
 ]
