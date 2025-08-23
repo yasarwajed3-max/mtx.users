@@ -10,5 +10,11 @@
         "key": "of",
         "expirydate": "15-012-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d3f697b62245ca89",
+        "key": "of1",
+        "expirydate": "15-012-2025",
+        "Allowoffline": false
     }
 ]
