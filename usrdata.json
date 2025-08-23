@@ -1,30 +1,14 @@
 [
     {
         "device_id": "device123",
-        "username": "user1",
-        "password": "pass123",
+        "key": "key12345",
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
-        "device_id": "0dc41948b0ad44da",
-        "username": "ofbar1",
-        "password": "ofbar2",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
-        },
-    {
-        "device_id": "0dc41948b0ad44da",
-        "username": "ofbar",
-        "password": "ofbar",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "0dc41948b0ad44da",
-        "username": "of",
-        "password": "2",
-        "expirydate": "31-12-2025",
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
     }
 ]
