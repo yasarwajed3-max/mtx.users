@@ -502,5 +502,11 @@
         "key": "OmaJpQs432",
         "expirydate": "24-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "811a7e57c6fa239b",
+        "key": "1JC8DulSAj",
+        "expirydate": "24-09-2025",
+        "Allowoffline": false
     }
 ]
