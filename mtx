@@ -184,5 +184,11 @@
         "key": "pzinBZosf3",
         "expirydate": "24-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1eed6c09677340f2",
+        "key": "O4n9A3ocLs",
+        "expirydate": "24-09-2025",
+        "Allowoffline": false
     }
 ]
