@@ -106,5 +106,11 @@
         "key": "c15LkRX2OB",
         "expirydate": "24-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3f2782810ee731fb",
+        "key": "DCtBerEgnb",
+        "expirydate": "24-09-2025",
+        "Allowoffline": false
     }
 ]
