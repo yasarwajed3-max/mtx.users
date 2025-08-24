@@ -388,5 +388,11 @@
         "key": "qTSAs9064V",
         "expirydate": "24-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4b2b1826cd6d0a27",
+        "key": "D1pdJXfwi8",
+        "expirydate": "24-09-2025",
+        "Allowoffline": false
     }
 ]
