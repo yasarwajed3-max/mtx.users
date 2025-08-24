@@ -430,5 +430,11 @@
         "key": "cBdCEAL3nu",
         "expirydate": "24-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "732260161f9f34f2",
+        "key": "yh6FHgRVX9",
+        "expirydate": "24-09-2025",
+        "Allowoffline": false
     }
 ]
