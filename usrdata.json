@@ -29,10 +29,16 @@
         "expirydate": "15-012-2025",
         "Allowoffline": false
     },
-        {
+    {
         "device_id": "1b471f4a180046d8",
         "key": "123",
         "expirydate": "12-012-2025",
         "Allowoffline": false
-        }
+    },
+    {
+        "device_id": "Snslchsj1832",
+        "key": "3JFD4BNpcl",
+        "expirydate": "24-09-2025",
+        "Allowoffline": true
+    }
 ]
