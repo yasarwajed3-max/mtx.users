@@ -11,10 +11,16 @@
         "expirydate": "15-30-2025",
         "Allowoffline": false
     },
-   {
+    {
         "device_id": "",
         "key": "2025mtx",
         "expirydate": "20-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "12463904d03ed23c",
+        "key": "zA5NrR0CBn",
+        "expirydate": "24-09-2025",
         "Allowoffline": false
     }
 ]
