@@ -586,5 +586,11 @@
         "key": "SRJogaALBD",
         "expirydate": "25-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dfbf0055f583ff4a",
+        "key": "38n9IR0VvK",
+        "expirydate": "25-09-2025",
+        "Allowoffline": false
     }
 ]
