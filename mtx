@@ -580,5 +580,11 @@
         "key": "YKk4rpQxnm",
         "expirydate": "25-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c3590b3c6a12c52d",
+        "key": "SRJogaALBD",
+        "expirydate": "25-09-2025",
+        "Allowoffline": false
     }
 ]
