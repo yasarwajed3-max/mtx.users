@@ -1324,5 +1324,11 @@
         "key": "cABH9OTy6b",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "Galaxy Grand Prime+",
+        "key": "q1tu7sbHY6",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
