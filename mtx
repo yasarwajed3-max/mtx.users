@@ -1360,5 +1360,11 @@
         "key": "ZDai25MTx3",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "91f83346240372db",
+        "key": "8V7CWemPEN",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
