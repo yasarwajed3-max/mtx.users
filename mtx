@@ -1294,5 +1294,11 @@
         "key": "MkDvjuby8W",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9042111177",
+        "key": "z8TushftAP",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
 ]
