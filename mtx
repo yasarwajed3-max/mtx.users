@@ -1072,5 +1072,11 @@
         "key": "eyGB7OWMvp",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "983711fe272c3f6e",
+        "key": "ORSCs3Lmbr",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
 ]
