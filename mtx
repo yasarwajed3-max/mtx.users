@@ -1390,5 +1390,11 @@
         "key": "TvkpFnfDSq",
         "expirydate": "29-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9090",
+        "key": "14FURBCyp6",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
