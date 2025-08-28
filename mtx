@@ -1354,5 +1354,11 @@
         "key": "Cx2M0851zu",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "34201a58d22f38fe",
+        "key": "ZDai25MTx3",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
 ]
