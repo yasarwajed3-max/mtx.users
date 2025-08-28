@@ -1378,5 +1378,11 @@
         "key": "unlpMSekN8",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6b32431d533d2491",
+        "key": "6pd9Gohwaj",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
