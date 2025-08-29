@@ -1570,5 +1570,11 @@
         "key": "nIDSq52lR6",
         "expirydate": "29-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "Redmi Note 14",
+        "key": "3GqvLeB28Q",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
