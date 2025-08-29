@@ -1414,5 +1414,11 @@
         "key": "LJAMXTQxCn",
         "expirydate": "29-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a76db21290f22702",
+        "key": "UyOLg20sre",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
