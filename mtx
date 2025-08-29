@@ -1474,5 +1474,11 @@
         "key": "7u3snBxPOV",
         "expirydate": "29-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "Redmi Note 11S",
+        "key": "KZymWN8UOq",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
