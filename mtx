@@ -1618,5 +1618,11 @@
         "key": "PEMmXsiKl2",
         "expirydate": "29-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "/update",
+        "key": "OG5372jSaR",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
