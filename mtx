@@ -1498,5 +1498,11 @@
         "key": "LY9bVNAxtl",
         "expirydate": "29-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "49703c4dc2ecb12f",
+        "key": "Lg1yJB3QKz",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
