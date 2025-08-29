@@ -1510,5 +1510,11 @@
         "key": "KBUrS60QZa",
         "expirydate": "29-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3f2f689f858828a3",
+        "key": "j3o0zxA4D5",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
