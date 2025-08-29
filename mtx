@@ -1612,5 +1612,11 @@
         "key": "IHZEt8kMYm",
         "expirydate": "29-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9519434595",
+        "key": "PEMmXsiKl2",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
