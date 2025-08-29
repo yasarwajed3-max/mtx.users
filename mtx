@@ -1420,5 +1420,11 @@
         "key": "UyOLg20sre",
         "expirydate": "29-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a622cf237e2dd711",
+        "key": "D1WM2EFtmo",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
