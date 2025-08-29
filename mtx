@@ -1552,5 +1552,11 @@
         "key": "uxreXJg4Tt",
         "expirydate": "29-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "af2d03e7f96093dd",
+        "key": "TthDOdsGuv",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
