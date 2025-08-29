@@ -1624,5 +1624,11 @@
         "key": "OG5372jSaR",
         "expirydate": "29-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "83c3f61af0917e08",
+        "key": "wNFbc20yQr",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
