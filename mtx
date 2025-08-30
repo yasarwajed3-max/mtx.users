@@ -1756,5 +1756,11 @@
         "key": "1u9D8YbN3k",
         "expirydate": "30-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "@mdmxmxtg",
+        "key": "sDPTUNxSi3",
+        "expirydate": "30-09-2025",
+        "Allowoffline": false
     }
 ]
