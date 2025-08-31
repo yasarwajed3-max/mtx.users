@@ -1912,5 +1912,11 @@
         "key": "9jm41IqONE",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "Poco X 5 pro",
+        "key": "KrkT7DSEhy",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
 ]
