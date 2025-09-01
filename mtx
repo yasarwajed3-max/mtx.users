@@ -1954,5 +1954,11 @@
         "key": "djFhApD2vb",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "/start 6824547419",
+        "key": "GD1riU7SIK",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
 ]
