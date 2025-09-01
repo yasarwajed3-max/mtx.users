@@ -1960,5 +1960,11 @@
         "key": "GD1riU7SIK",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "POCO C65",
+        "key": "U1WrMsLObB",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
 ]
