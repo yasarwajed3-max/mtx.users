@@ -2014,5 +2014,11 @@
         "key": "H4P3qsNic6",
         "expirydate": "02-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d5df55dbb5160e36",
+        "key": "6I9UK43k12",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
     }
 ]
