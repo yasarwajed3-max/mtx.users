@@ -2002,5 +2002,11 @@
         "key": "ha80KxPgcj",
         "expirydate": "02-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "00c7984270b59110",
+        "key": "5MPx8Zjtp1",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
     }
 ]
