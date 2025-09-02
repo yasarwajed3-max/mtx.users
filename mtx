@@ -2020,5 +2020,11 @@
         "key": "6I9UK43k12",
         "expirydate": "02-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4b4c30694aa37fbd",
+        "key": "75JWlboVdk",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
     }
 ]
