@@ -2038,5 +2038,11 @@
         "key": "XZs264t7YM",
         "expirydate": "02-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "Redmi 10a",
+        "key": "AiVqanQHO4",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
     }
 ]
