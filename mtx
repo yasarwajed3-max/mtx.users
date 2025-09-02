@@ -2032,5 +2032,11 @@
         "key": "2674knovep",
         "expirydate": "02-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e4f7853aaf523d76",
+        "key": "XZs264t7YM",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
     }
 ]
