@@ -2152,5 +2152,11 @@
         "key": "tI4T68eghz",
         "expirydate": "04-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "86e8e30c471d5ae7",
+        "key": "FD6VJ10nOK",
+        "expirydate": "04-10-2025",
+        "Allowoffline": false
     }
 ]
