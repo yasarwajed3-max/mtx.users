@@ -2218,5 +2218,11 @@
         "key": "KINC527eYO",
         "expirydate": "04-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "/start 8080314167",
+        "key": "wFx16QBSR3",
+        "expirydate": "04-10-2025",
+        "Allowoffline": false
     }
 ]
