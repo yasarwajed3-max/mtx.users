@@ -2212,5 +2212,11 @@
         "key": "qxDRdZU752",
         "expirydate": "04-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "351681593455829",
+        "key": "KINC527eYO",
+        "expirydate": "04-10-2025",
+        "Allowoffline": false
     }
 ]
