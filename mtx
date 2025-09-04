@@ -2158,5 +2158,11 @@
         "key": "FD6VJ10nOK",
         "expirydate": "04-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "/start 7309742503",
+        "key": "KkFJ4wo9Ec",
+        "expirydate": "04-10-2025",
+        "Allowoffline": false
     }
 ]
