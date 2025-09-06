@@ -2290,5 +2290,11 @@
         "key": "vSI4AnlZPd",
         "expirydate": "06-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "38f6a3c2411eedc4",
+        "key": "OfbktIZarq",
+        "expirydate": "06-10-2025",
+        "Allowoffline": false
     }
 ]
