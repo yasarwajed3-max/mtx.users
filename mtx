@@ -2332,5 +2332,11 @@
         "key": "mrtbf4au1V",
         "expirydate": "07-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f2bde14c70414f9d",
+        "key": "1YwSbIGy2i",
+        "expirydate": "07-10-2025",
+        "Allowoffline": false
     }
 ]
