@@ -2446,5 +2446,11 @@
         "key": "AOTB124ZaV",
         "expirydate": "10-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f434a1ec7fbd3aa8",
+        "key": "Av28DskLWS",
+        "expirydate": "10-10-2025",
+        "Allowoffline": false
     }
 ]
