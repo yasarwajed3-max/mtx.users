@@ -2428,5 +2428,11 @@
         "key": "KREPaFBx2A",
         "expirydate": "10-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "99f89bc309226828",
+        "key": "7GI0xvWpdo",
+        "expirydate": "10-10-2025",
+        "Allowoffline": false
     }
 ]
