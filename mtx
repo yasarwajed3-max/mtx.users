@@ -2782,5 +2782,11 @@
         "key": "746zNuaCAi",
         "expirydate": "16-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "redmi 8",
+        "key": "FaLfQkORHd",
+        "expirydate": "16-10-2025",
+        "Allowoffline": false
     }
 ]
