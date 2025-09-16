@@ -2752,5 +2752,11 @@
         "key": "VUMrYmLOC1",
         "expirydate": "16-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e1cf6727baf74d9c",
+        "key": "V9l2S0e1dM",
+        "expirydate": "16-10-2025",
+        "Allowoffline": false
     }
 ]
