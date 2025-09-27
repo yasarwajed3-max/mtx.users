@@ -3040,5 +3040,11 @@
         "key": "YtxujoFabU",
         "expirydate": "27-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "\ud83e\uddf0 \u0627\u0628\u0632\u0627\u0631 \u0641\u0631\u06cc \u0641\u0627\u06cc\u0631",
+        "key": "QPoisIJ1nM",
+        "expirydate": "27-10-2025",
+        "Allowoffline": false
     }
 ]
