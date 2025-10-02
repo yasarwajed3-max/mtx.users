@@ -130,5 +130,11 @@
         "key": "zrjIma3vhu",
         "expirydate": "24-09-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "d3f697b62245ca89",
+        "key": "ofbar",
+        "expirydate": "24-09-2049",
+        "Allowoffline": true
     }
 ]
