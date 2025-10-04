@@ -3160,5 +3160,11 @@
         "key": "NxbhWG9tS7",
         "expirydate": "04-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3e6a3efd9834bf4f",
+        "key": "SMA1DPl9RW",
+        "expirydate": "04-11-2025",
+        "Allowoffline": false
     }
 ]
