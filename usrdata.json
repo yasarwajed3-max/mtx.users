@@ -16,5 +16,11 @@
         "key": "ofbar",
         "exp{irydate": "15-06-2050",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b68f6313e54e96e3",
+        "key": "hklvafg",
+        "exp{irydate": "15-06-2050",
+        "Allowoffline": false
     }
 ]
