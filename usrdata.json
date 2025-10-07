@@ -10,5 +10,11 @@
         "key": "key67890",
         "exp{irydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d5c37c15d2cf650a",
+        "key": "GMUbtce17y",
+        "expirydate": "07-01-2034",
+        "Allowoffline": false
     }
 ]
