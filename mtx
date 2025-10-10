@@ -3292,5 +3292,11 @@
         "key": "akWSCBempG",
         "expirydate": "10-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "A03s",
+        "key": "AWklF4q7mX",
+        "expirydate": "10-11-2025",
+        "Allowoffline": false
     }
 ]
