@@ -3328,5 +3328,11 @@
         "key": "gOm5hHSUoJ",
         "expirydate": "10-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1ce09715618e7fb7",
+        "key": "MK7dPOc4nU",
+        "expirydate": "11-11-2025",
+        "Allowoffline": false
     }
 ]
