@@ -3352,5 +3352,11 @@
         "key": "QCS23b4grq",
         "expirydate": "12-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "01f73f38d1f41e58",
+        "key": "fpbnzeAKEM",
+        "expirydate": "12-11-2025",
+        "Allowoffline": false
     }
 ]
