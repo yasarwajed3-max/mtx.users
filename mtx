@@ -3382,5 +3382,11 @@
         "key": "mjM9LphNxZ",
         "expirydate": "13-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6680250997",
+        "key": "vCKZVY9ny4",
+        "expirydate": "13-11-2025",
+        "Allowoffline": false
     }
 ]
