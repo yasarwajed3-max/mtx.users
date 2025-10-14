@@ -3388,5 +3388,11 @@
         "key": "vCKZVY9ny4",
         "expirydate": "13-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9746226654",
+        "key": "oGuA5DIR4s",
+        "expirydate": "14-11-2025",
+        "Allowoffline": false
     }
 ]
