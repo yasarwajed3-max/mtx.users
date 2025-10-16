@@ -3424,5 +3424,11 @@
         "key": "NFJTkrMR13",
         "expirydate": "16-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d3edc03ef81bb68f",
+        "key": "CtgRQcKdwv",
+        "expirydate": "16-11-2025",
+        "Allowoffline": false
     }
 ]
