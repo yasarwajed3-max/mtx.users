@@ -3406,5 +3406,11 @@
         "key": "DaeRusMCh5",
         "expirydate": "15-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "Galaxy A31",
+        "key": "t2QdIhobqv",
+        "expirydate": "16-11-2025",
+        "Allowoffline": false
     }
 ]
