@@ -3490,5 +3490,11 @@
         "key": "JZlzmKBN25",
         "expirydate": "17-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a2e6ba196bb68a08",
+        "key": "hSA94vCEd1",
+        "expirydate": "17-11-2025",
+        "Allowoffline": false
     }
 ]
