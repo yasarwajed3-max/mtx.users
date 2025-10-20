@@ -3568,5 +3568,11 @@
         "key": "TWIuP9Fj1m",
         "expirydate": "20-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e7577dec95739f14",
+        "key": "regnmlsE5k",
+        "expirydate": "20-11-2025",
+        "Allowoffline": false
     }
 ]
