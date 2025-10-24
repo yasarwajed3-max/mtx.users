@@ -3664,5 +3664,11 @@
         "key": "KPdebnR1rh",
         "expirydate": "24-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e44785ed6946c796",
+        "key": "daxc8DJT6M",
+        "expirydate": "24-11-2025",
+        "Allowoffline": false
     }
 ]
