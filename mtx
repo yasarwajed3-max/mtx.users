@@ -3694,5 +3694,11 @@
         "key": "Qz1qYp9VAm",
         "expirydate": "24-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "Redmi Note 11",
+        "key": "TLsEOHSKCP",
+        "expirydate": "24-11-2025",
+        "Allowoffline": false
     }
 ]
