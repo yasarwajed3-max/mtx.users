@@ -3682,5 +3682,11 @@
         "key": "bNyUTO203J",
         "expirydate": "24-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "309d0bdc6c96e94d",
+        "key": "GHXu8eLlBK",
+        "expirydate": "24-11-2025",
+        "Allowoffline": false
     }
 ]
