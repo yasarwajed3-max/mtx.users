@@ -3700,5 +3700,11 @@
         "key": "TLsEOHSKCP",
         "expirydate": "24-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8f46f2cfaab14fbd",
+        "key": "svVNokQ4Sq",
+        "expirydate": "25-11-2025",
+        "Allowoffline": false
     }
 ]
