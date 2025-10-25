@@ -3712,5 +3712,11 @@
         "key": "DCPmGui2vj",
         "expirydate": "25-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0969eb87d9a8ce75",
+        "key": "wgocWCYSjp",
+        "expirydate": "25-11-2025",
+        "Allowoffline": false
     }
 ]
