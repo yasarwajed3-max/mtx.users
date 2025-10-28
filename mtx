@@ -3772,5 +3772,11 @@
         "key": "rpw9higZoC",
         "expirydate": "27-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f92f8f6c469d0a0a",
+        "key": "MptjNJycKx",
+        "expirydate": "28-11-2025",
+        "Allowoffline": false
     }
 ]
