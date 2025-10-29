@@ -3826,5 +3826,11 @@
         "key": "ThU2fIxptM",
         "expirydate": "28-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "RZ8M12ZD60M",
+        "key": "MvBeTlpQVg",
+        "expirydate": "29-11-2025",
+        "Allowoffline": false
     }
 ]
