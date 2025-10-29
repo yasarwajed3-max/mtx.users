@@ -3844,5 +3844,11 @@
         "key": "a38cH47xCS",
         "expirydate": "29-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "Copy ID",
+        "key": "GVon6pDxvl",
+        "expirydate": "30-11-2025",
+        "Allowoffline": false
     }
 ]
