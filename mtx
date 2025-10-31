@@ -3898,5 +3898,11 @@
         "key": "BS78mqk9vl",
         "expirydate": "01-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c156e7b95e950471",
+        "key": "zQcqV5L2CT",
+        "expirydate": "01-12-2025",
+        "Allowoffline": false
     }
 ]
