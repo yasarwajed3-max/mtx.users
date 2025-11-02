@@ -3922,5 +3922,11 @@
         "key": "SweoXizADc",
         "expirydate": "01-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b0135aa0ca9770ce",
+        "key": "vD7leQS4bJ",
+        "expirydate": "02-12-2025",
+        "Allowoffline": false
     }
 ]
