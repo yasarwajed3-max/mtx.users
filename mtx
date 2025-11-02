@@ -3928,5 +3928,11 @@
         "key": "vD7leQS4bJ",
         "expirydate": "02-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "91683653cb52d7b4",
+        "key": "MCU4b7L1lv",
+        "expirydate": "02-12-2025",
+        "Allowoffline": false
     }
 ]
